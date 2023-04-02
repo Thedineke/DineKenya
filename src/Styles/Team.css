@@ -1,0 +1,11 @@
+.emg{
+    width: 400px;
+    margin: 10px;
+}
+
+
+@media (max-width:768px) {
+    .Team{
+        flex-direction: column;
+    }
+}

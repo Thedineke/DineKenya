@@ -1,0 +1,9 @@
+@media (max-width:768px) {
+  .menu{
+    flex-direction: column;  
+
+  }
+  .menu p{
+    font-size: small;
+  }
+}

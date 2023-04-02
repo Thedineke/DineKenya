@@ -1,0 +1,30 @@
+
+
+.Cards{
+   margin: 20px;
+   width: 300px;
+   background-color: aliceblue;
+   border-radius: 5px;
+   height: 370px;
+}
+ .CardBodyy{
+   height: 400px;
+
+ }
+ .img img{
+    width: 300px;
+    height: 250px;
+    border-top-right-radius: 5px;
+
+  }
+ 
+
+
+  .button button{
+   border: none;
+   width: 40px;
+   height: 40px;
+   border-radius: 50%;
+   background-color: rgb(255, 149, 0);
+   
+  } 

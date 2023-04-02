@@ -1,0 +1,41 @@
+
+ .container{
+justify-content: center;
+ }
+.im{
+    width: 60px;
+}
+.break{
+    width: 430px;
+    height: 180px;
+    background-image: url('https://media.istockphoto.com/id/620405012/photo/seafood-risotto.jpg?b=1&s=170667a&w=0&k=20&c=VUmVQEfyYfybEztRFBbIvMrbQP6r1p3mk2gK9n0D1js=');
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    margin: 5px;
+    display: flex;
+    align-items: last baseline;
+    justify-content: center;
+}
+
+@media (max-width:670px) {
+    
+    .Title{
+        margin-top: 5px;
+    }
+    .Title h1{
+       font-size: medium;
+       margin-top: 10px;
+    }
+    .Title p{
+        font-size: small;
+    }
+    .break{
+       width: 130px;
+       height: 60px;
+       border-radius: 10px;
+    }
+    .break h1{
+        font-size: 9px;
+    }
+}

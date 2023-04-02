@@ -1,0 +1,39 @@
+.shop{
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+
+ }
+ .shipping{
+
+}
+ .shipping ul li{
+    display: inline-flex;
+    margin: 30px;
+    align-items: center;
+    list-style: none;
+    font-weight: 700;
+    color: #fff;
+    width:450px;
+    height: 70px;
+    text-align: center;
+    justify-content: center;
+    box-shadow:4px 10px  #ff1e006e;
+    background-color: #ff1e00;
+    border-radius: 30px;
+ }
+ @media (max-width:10240px ) {
+ .shipping ul li{
+      display: flex;
+      width: 250px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      font-size: medium;
+
+    }
+ }

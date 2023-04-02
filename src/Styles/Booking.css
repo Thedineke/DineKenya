@@ -1,0 +1,16 @@
+
+.Bookings{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.first{
+    margin: 20px;
+    width: 50vw;
+    height: 350px;
+background-image: url('https://media.istockphoto.com/id/1400972233/photo/empty-wooden-table-top-with-lights-bokeh-on-blur-restaurant-background.jpg?b=1&s=170667a&w=0&k=20&c=h1L8FdLMDtKQYhpVxWjD5mhFlnRFxdqdyVaOfIQKAQc='); 
+   /* background-position: center; */
+   background-position: center;
+   background-size: cover;
+   background-color: rgb(82, 7, 7);
+}

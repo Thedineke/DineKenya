@@ -1,0 +1,47 @@
+.Home{
+    background-image: url('https://media.istockphoto.com/id/1388791611/photo/teppanyaki-style.jpg?b=1&s=170667a&w=0&k=20&c=o4FL_2iyEO2XQiliXts-JphIFAhXg5BYlxvjxmBbh7E=');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+.items h1{
+    text-align: center;
+    color: #fff;
+    font-size: 59px;
+    margin: 10px;
+    color: #d60000;
+    font-family: 'Gloock', serif;
+}
+.items h1 p{
+   font-size: 25px;
+   
+}
+.btn{
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color: #ffbd59;
+    color: #ff1e00;
+    font-weight: 700;
+    font-size: 15px;
+}
+.span{
+   font-size: 25px;
+   color: #ff1e00;
+}
+@media (max-width:670px) {
+    .items h1{
+        font-size: 40px;
+    }
+    .items h1 p{
+        font-size: 17px;
+    }
+    .span{
+        text-transform: uppercase;
+        font-size: 20px;
+    }
+}
