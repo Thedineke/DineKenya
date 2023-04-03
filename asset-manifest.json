@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DineKenya/static/css/main.53b561db.css",
+    "main.js": "/DineKenya/static/js/main.2ead72c8.js",
+    "static/media/img.png": "/DineKenya/static/media/img.b054c39d0d5eb1e7a861.png",
+    "index.html": "/DineKenya/index.html",
+    "main.53b561db.css.map": "/DineKenya/static/css/main.53b561db.css.map",
+    "main.2ead72c8.js.map": "/DineKenya/static/js/main.2ead72c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b561db.css",
+    "static/js/main.2ead72c8.js"
+  ]
+}
